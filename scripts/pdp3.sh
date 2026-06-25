@@ -53,7 +53,7 @@ readonly LC_NUMERIC="en_US.UTF-8"       # Specify period decimal point
 readonly OS="$(uname)"                  # Operation System
 
 readonly DEBUG=YES                      # YES/NO (uppercase!)
-readonly OFFLINE=NO                     # OFFLINE=YES will overwrite USECACHE=NO
+readonly OFFLINE=YES                     # OFFLINE=YES will overwrite USECACHE=NO
 readonly USECACHE=YES
 readonly USERTS=YES
 
