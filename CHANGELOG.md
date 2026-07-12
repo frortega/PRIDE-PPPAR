@@ -2,6 +2,9 @@
 
 ## PRIDE PPP-AR version 3.2.9
 
+### 2026-07-12 (v3.2.10)
+* `lsq` & `tedit` & `lib` & `arsig` : Accommodate the BDS reconfiguration
+
 ### 2026-06-12 (v3.2.9)
 * `pdp3`: Fix a problem with respect to pre-staged broadcast nav on same-day runs
 * `pdp3`: Fix GNU date calls for users in timezones with daylight savings
