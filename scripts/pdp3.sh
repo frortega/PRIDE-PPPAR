@@ -58,7 +58,7 @@ readonly USECACHE=YES
 readonly USERTS=YES
 
 readonly SCRIPT_NAME="pdp3"
-readonly VERSION_NUM="3.2.9"
+readonly VERSION_NUM="3.2.10"
 
 ######################################################################
 ##                     System-specific Command                      ##
